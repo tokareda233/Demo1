@@ -1,0 +1,778 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\implmentation\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\implmentation\\vehiclerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\implmentation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\implmentation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\interfaces\\icustomerrrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\interfaces\\icustomerrrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\implmentation\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\implmentation\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\unitofwork\\unitofworkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\unitofwork\\unitofworkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\getcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\getcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\mapping\\modelmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\mapping\\modelmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\implmentation\\salerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\implmentation\\salerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\interfaces\\isalerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\interfaces\\isalerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\createsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\createsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\implmentation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\implmentation\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\interfaces\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\interfaces\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\getemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\getemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\createvheicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\createvheicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\interfaces\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\interfaces\\icategoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\repo\\implmentation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\repo\\implmentation\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\dtos\\getvheicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\dtos\\getvheicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarDB/True/SqlTable/dbo.CustomerProfiles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarDB/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001105352_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo1\\Migrations\\20261001105352_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001104043_init23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo1\\Migrations\\20261001104043_init23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001103819_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo1\\Migrations\\20261001103819_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001103604_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo1\\Migrations\\20261001103604_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001101701_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo1\\Migrations\\20261001101701_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|c:\\users\\taqy.reda\\source\\repos\\demo1\\demo1\\migrations\\20261001105637_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE32AD7C-1288-4313-9DA8-0121D7114DAC}|Demo1\\Demo1.csproj|solutionrelative:demo1\\migrations\\20261001105637_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerrRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\ICustomerrRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Interfaces\\ICustomerrRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\ICustomerrRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Interfaces\\ICustomerrRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:11:05.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:13:17.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:02:42.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Implmentation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\GenericRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Implmentation\\GenericRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:03:22.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Interfaces\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:29:58.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\VehicleRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Implmentation\\VehicleRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\VehicleRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Implmentation\\VehicleRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:31:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:47:27.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T09:25:38.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Implmentation\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\CustomerRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Implmentation\\CustomerRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:11:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWorkk.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\UnitOfWork\\UnitOfWorkk.cs",
+              "RelativeDocumentMoniker": "Demo1\\UnitOfWork\\UnitOfWorkk.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\UnitOfWork\\UnitOfWorkk.cs",
+              "RelativeToolTip": "Demo1\\UnitOfWork\\UnitOfWorkk.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:14:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo1\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Demo1\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:14:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "Demo1\\Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "Demo1\\Models\\CustomerProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:01:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Demo1\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Customer.cs",
+              "RelativeToolTip": "Demo1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:01:37.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\CreateCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateCustomerDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\CreateCustomerDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:18:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetCategoryDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\GetCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetCategoryDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\GetCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:45:34.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetCustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetCustomerDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\GetCustomerDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetCustomerDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\GetCustomerDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:20:11.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModelMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Mapping\\ModelMapping.cs",
+              "RelativeDocumentMoniker": "Demo1\\Mapping\\ModelMapping.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Mapping\\ModelMapping.cs",
+              "RelativeToolTip": "Demo1\\Mapping\\ModelMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:08:47.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:53:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\SaleRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Implmentation\\SaleRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\SaleRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Implmentation\\SaleRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:49:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Demo1\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Sale.cs",
+              "RelativeToolTip": "Demo1\\Models\\Sale.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:02:17.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISaleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\ISaleRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Interfaces\\ISaleRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\ISaleRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Interfaces\\ISaleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:49:20.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Employee.cs",
+              "RelativeToolTip": "Demo1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:02:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:35:05.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateSaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateSaleDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\CreateSaleDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateSaleDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\CreateSaleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:48:14.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\CreateEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateEmployeeDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\CreateEmployeeDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:32:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:30:44.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Interfaces\\IEmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\IEmployeeRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Interfaces\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:24:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Implmentation\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\EmployeeRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Implmentation\\EmployeeRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:24:31.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetEmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\GetEmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetEmployeeDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\GetEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:33:18.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Demo1\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Demo1\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwCMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:01:28.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Demo1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Models\\Category.cs",
+              "RelativeToolTip": "Demo1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:01:06.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:45:48.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Interfaces\\ICategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:40:35.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateVheicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateVheicleDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\CreateVheicleDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\CreateVheicleDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\CreateVheicleDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:09:42.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Demo1\\Repo\\Implmentation\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Repo\\Implmentation\\CategoryRepo.cs",
+              "RelativeToolTip": "Demo1\\Repo\\Implmentation\\CategoryRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:40:47.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetVheicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetVheicleDTO.cs",
+              "RelativeDocumentMoniker": "Demo1\\DTOs\\GetVheicleDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\DTOs\\GetVheicleDTO.cs",
+              "RelativeToolTip": "Demo1\\DTOs\\GetVheicleDTO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:09:28.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.CustomerProfiles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarDB/True/SqlTable/dbo.CustomerProfiles.sql",
+              "ToolTip": "dbo.CustomerProfiles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-01T10:58:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.Categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarDB/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/CarDB/True/SqlTable/dbo.Categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-01T10:57:15.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20261001105637_init.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001105637_init.cs",
+              "RelativeDocumentMoniker": "Demo1\\Migrations\\20261001105637_init.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001105637_init.cs",
+              "RelativeToolTip": "Demo1\\Migrations\\20261001105637_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:56:37.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20261001105352_v2.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001105352_v2.cs",
+              "RelativeDocumentMoniker": "Demo1\\Migrations\\20261001105352_v2.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001105352_v2.cs",
+              "RelativeToolTip": "Demo1\\Migrations\\20261001105352_v2.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:53:52.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20261001104043_init23.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001104043_init23.cs",
+              "RelativeDocumentMoniker": "Demo1\\Migrations\\20261001104043_init23.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001104043_init23.cs",
+              "RelativeToolTip": "Demo1\\Migrations\\20261001104043_init23.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:40:43.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20261001103819_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001103819_init2.cs",
+              "RelativeDocumentMoniker": "Demo1\\Migrations\\20261001103819_init2.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001103819_init2.cs",
+              "RelativeToolTip": "Demo1\\Migrations\\20261001103819_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:38:19.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20261001103604_init1.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001103604_init1.cs",
+              "RelativeDocumentMoniker": "Demo1\\Migrations\\20261001103604_init1.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001103604_init1.cs",
+              "RelativeToolTip": "Demo1\\Migrations\\20261001103604_init1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:36:04.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Demo1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Demo1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T09:30:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20261001101701_init.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001101701_init.cs",
+              "RelativeDocumentMoniker": "Demo1\\Migrations\\20261001101701_init.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\Migrations\\20261001101701_init.cs",
+              "RelativeToolTip": "Demo1\\Migrations\\20261001101701_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T10:17:01.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\Demo1\\Demo1\\appsettings.json",
+              "RelativeToolTip": "Demo1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T09:30:47.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
